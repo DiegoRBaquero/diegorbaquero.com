@@ -33,7 +33,7 @@ medium:  'DiegoRBaquero'
 email: 'diegorbaquero@gmail.com'
 messenger: 'DiegoRBaquero'
 
-social-links-order: [github-user, linkedin, twitter, medium, email, messenger, instagram, facebook]
+social-links-order: [github-user, linkedin, twitter, medium, email, messenger, instagram]
 
 # Advanced settings
 plugins:
