@@ -3,7 +3,7 @@ remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
 title: 'Diego Rodríguez Baquero'
-description: 'Software Engineer & MSc. Software Engineering Student'
+description: 'Senior Software Engineer/Architect & MSc. Software Engineering Student'
 
 # Images
 avatar: 'avatar.jpeg'
@@ -14,7 +14,7 @@ favicon: 'favicon.ico'
 #facebook: 'myfacebook'
 twitter: 'DiegoRBaquero'
 linkedin: 'DiegoRBaquero'
-instagram: 'DiegoRBaquero'
+#instagram: ''
 #pinterest: 'mypinterest'
 #youtube: 'myyoutube'
 github-user: 'DiegoRBaquero'
@@ -31,9 +31,9 @@ medium:  'DiegoRBaquero'
 #vk: 'myvk'
 #blog_url: 'myblog.blog.com'
 email: 'diegorbaquero@gmail.com'
-messenger: 'DiegoRBaquero'
+#messenger: ''
 
-social-links-order: [github-user, linkedin, twitter, medium, email, messenger, instagram]
+social-links-order: [github-user, linkedin, twitter, medium, email]
 
 # Advanced settings
 plugins:
