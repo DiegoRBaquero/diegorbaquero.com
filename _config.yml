@@ -14,7 +14,7 @@ favicon: 'favicon.ico'
 #facebook: 'myfacebook'
 twitter: 'DiegoRBaquero'
 linkedin: 'DiegoRBaquero'
-#instagram: ''
+instagram: 'DiegoRBaquero'
 #pinterest: 'mypinterest'
 #youtube: 'myyoutube'
 github-user: 'DiegoRBaquero'
@@ -23,17 +23,17 @@ github-user: 'DiegoRBaquero'
 #steam: ''
 #soundcloud: ''
 #lastfm: ''
-#stack-overflow: ''
+stack-overflow: '4503431/diegorbaquero'
 #reddit: ''
 medium:  'DiegoRBaquero'
 #tumblr: 'mytumblr'
 #weibo: 'myweibo'
 #vk: 'myvk'
 #blog_url: 'myblog.blog.com'
-email: 'diegorbaquero@gmail.com'
+email: 'www@diegorbaquero.com'
 #messenger: ''
 
-social-links-order: [github-user, linkedin, twitter, medium, email]
+social-links-order: [github-user, linkedin, twitter, medium, email, stack-overflow]
 
 # Advanced settings
 plugins:
