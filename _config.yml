@@ -1,9 +1,9 @@
 # Theme
-remote_theme: 'epidrome/cover-card'
+remote_theme: epidrome/cover-card@main
 
 # Title and tag line
 title: 'Diego Rodríguez Baquero'
-description: 'Senior Software Engineer/Architect & MSc. Software Engineering Student'
+description: 'Senior Software Engineer & MSc. Software Engineering Student'
 
 # Images
 avatar: 'avatar.jpeg'
@@ -34,10 +34,6 @@ email: 'www@diegorbaquero.com'
 #messenger: ''
 
 social-links-order: [github-user, linkedin, twitter, medium, email, stack-overflow]
-
-# Advanced settings
-plugins:
-  - jekyll-remote-theme
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -146,9 +142,9 @@ social-links:
 
   - name: blog_url
     url-pattern: '__USERNAME__'
-    icon-class: fas fa-2x fa-tags
+    icon-class: fas fa-2x fa-blog
 
   - name: email
     url-scheme: 'mailto:'
     url-pattern: '__USERNAME__'
-    icon-class: fas fa-2x fa-envelope
+    icon-class: far fa-2x fa-envelope-open
