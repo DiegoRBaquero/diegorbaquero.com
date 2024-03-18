@@ -3,7 +3,7 @@ remote_theme: epidrome/cover-card@main
 
 # Title and tag line
 title: 'Diego Rodríguez Baquero'
-description: 'Software Engineer @ Protocol Labs • MSc. SWE • Skydiver'
+description: 'Senior/Lead Software Engineer • MSc. SWE • Skydiver/Pilot'
 
 # Images
 avatar: 'avatar.jpeg'
@@ -13,7 +13,7 @@ favicon: 'favicon.ico'
 # Online profiles
 #facebook: 'myfacebook'
 twitter: 'DiegoRBaquero'
-linkedin: 'diegorbaquero'
+linkedin: 'DiegoRBaquero'
 instagram: 'DiegoRBaquero'
 #pinterest: 'mypinterest'
 #youtube: 'myyoutube'
